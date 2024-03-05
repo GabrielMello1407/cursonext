@@ -1,2 +1,0 @@
-# cursonext
- curso origamid nextjs
