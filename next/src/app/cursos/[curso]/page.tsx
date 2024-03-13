@@ -1,5 +1,5 @@
 // app/cursos/[curso]/page.tsx
-import { getCurso } from '@/api/cursos';
+import { getCurso } from '@/app/api/cursos/route';
 import Link from 'next/link';
 
 export default async function CursoPage({
